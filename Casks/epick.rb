@@ -8,5 +8,5 @@ cask "epick" do
 	desc "Color picker for creating harmonic color palettes that works on Linux, Windows, macOS and web."
 	homepage "https://github.com/vv9k/epick"
 
-	app "epick.app"
+	app "app/epick.app"
 end
